@@ -1,0 +1,7 @@
+C:\KODING\VoiceRecBlank\VoiceRecBlank\bin\Debug\VoiceRecBlank.exe.config
+C:\KODING\VoiceRecBlank\VoiceRecBlank\bin\Debug\VoiceRecBlank.exe
+C:\KODING\VoiceRecBlank\VoiceRecBlank\bin\Debug\VoiceRecBlank.pdb
+C:\KODING\VoiceRecBlank\VoiceRecBlank\obj\Debug\VoiceRecBlank.csprojAssemblyReference.cache
+C:\KODING\VoiceRecBlank\VoiceRecBlank\obj\Debug\VoiceRecBlank.csproj.CoreCompileInputs.cache
+C:\KODING\VoiceRecBlank\VoiceRecBlank\obj\Debug\VoiceRecBlank.exe
+C:\KODING\VoiceRecBlank\VoiceRecBlank\obj\Debug\VoiceRecBlank.pdb
