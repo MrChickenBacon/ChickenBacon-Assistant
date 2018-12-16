@@ -6,7 +6,7 @@ Tell your computer what to do!
 
 Remember to set English (United States) as your display language, and download the speech pack for it.
 
-<img src="https://github.com/MrChickenBacon/ChickenBaconAssistantTemplate/raw/master/VoiceRecBlank/howto.PNG">
+<img src="https://github.com/MrChickenBacon/ChickenBaconAssistantTemplate/raw/master/ChickenBaconAssistantTemplate/howto.PNG">
 
 
 <h2>HOWTO get more voices:</h2>
