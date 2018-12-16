@@ -3,12 +3,13 @@ Tell your computer what to do!
 
 
 
-<h2>HOWTO get more voices:</>
 
 Remember to set English (United States) as your display language, and download the speech pack for it.
 
 <img src="https://github.com/MrChickenBacon/ChickenBacon-Assistant/raw/master/VoiceRecBlank/howto.PNG">
 
+
+<h2>HOWTO get more voices:</h2>
 
 !!!WARNING!!!
 
