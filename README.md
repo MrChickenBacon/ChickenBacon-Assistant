@@ -23,6 +23,7 @@ a) go here: http://www.microsoft.com/en-us/download/details.aspx?id=27225
 b) click "Download"
 c) select the "x64_SpeechPlatformRuntime\SpeechPlatformRuntime.msi"
 d) run the installer (duh :P)
+
 Step 2: --------------------------------------------------------------------------
 
 Get the alternate voices
