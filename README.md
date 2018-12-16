@@ -11,9 +11,7 @@ Remember to set English (United States) as your display language, and download t
 
 <h2>HOWTO get more voices:</h2>
 
-<![CDATA[test]]>
-
-<code>
+<pre>
 !!!WARNING!!!
 
 This involves manual edits to your registry. If you mess it up, don't blame me. Do at your own risk.
@@ -71,4 +69,4 @@ b) Click "Yes" when it prompts
 You should now have access to the new voices in Voice Attack, and in the Windows TTS options menu.
 
 This process may also work with other voice packs.
-</code>
+</pre>
