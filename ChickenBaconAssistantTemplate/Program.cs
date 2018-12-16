@@ -9,7 +9,7 @@ using System.Speech.Recognition;
 using System.Speech.Synthesis;
 using System.Threading;
 
-namespace VoiceRecBlank
+namespace ChickenBaconAssistantTemplate
 {
     class Program
     {
@@ -25,7 +25,7 @@ namespace VoiceRecBlank
         static void Main(string[] args)
         {
             //Optional
-            //synthesizer.SelectVoice("Voice Name");  <= example "Microsoft David". If not, => Use default system voice.
+            //synthesizer.SelectVoice("Voice Name");  <= example "Microsoft David". If nothing is set, => Default system voice will be used.
 
             SpeechRecoEngine();
             Thread.Sleep(1000);
