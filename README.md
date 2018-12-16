@@ -1,4 +1,4 @@
-# ChickenBacon-Assistant
+# ChickenBacon Assistant
 Tell your computer what to do!
 
 
